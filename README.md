@@ -35,4 +35,8 @@ ___
 
 After purchasing tokens with test accounts, view the total supply of minted tokens and the amount of wei that has been raised by the crowdsale. See the video below:
 
-<video src='Images/buyKasei.mov'>
+
+
+
+https://user-images.githubusercontent.com/60047556/208759433-e3433b28-30c6-4e0a-b293-375e77685ada.mov
+
